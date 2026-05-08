@@ -35,9 +35,6 @@ Google Forms → Google Sheets → Gmail
 * Email automation
 * Filter-based workflow logic
 
-## Demo
-
-Paste your Loom demo link here
 
 ## Blueprint
 
